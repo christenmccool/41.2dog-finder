@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`if matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <div
+      class="Nav"
+    >
+      <a
+        aria-current="page"
+        class="active"
+        href="/dogs"
+      >
+        Home
+      </a>
+      <a
+        href="/dogs/Whiskey"
+      >
+        Whiskey
+      </a>
+      <a
+        href="/dogs/Duke"
+      >
+        Duke
+      </a>
+      <a
+        href="/dogs/Perry"
+      >
+        Perry
+      </a>
+      <a
+        href="/dogs/Tubby"
+      >
+        Tubby
+      </a>
+    </div>
+    <div
+      class="DogList"
+    >
+      <a
+        href="/dogs/Whiskey"
+      >
+        <img
+          alt="Whiskey"
+          src="whiskey.jpg"
+        />
+      </a>
+      <a
+        href="/dogs/Duke"
+      >
+        <img
+          alt="Duke"
+          src="duke.jpg"
+        />
+      </a>
+      <a
+        href="/dogs/Perry"
+      >
+        <img
+          alt="Perry"
+          src="perry.jpg"
+        />
+      </a>
+      <a
+        href="/dogs/Tubby"
+      >
+        <img
+          alt="Tubby"
+          src="tubby.jpg"
+        />
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;

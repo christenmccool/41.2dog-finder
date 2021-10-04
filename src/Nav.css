@@ -1,0 +1,19 @@
+.Nav {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: grey;
+}
+
+.Nav a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+}
+
+.Nav a:hover {
+  background-color: darkgrey;
+}
+
+.Nav a.active {
+  font-weight: bold;
+}

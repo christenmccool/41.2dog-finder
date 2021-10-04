@@ -1,0 +1,11 @@
+.DogDetails {
+  text-align: center;
+}
+
+.DogDetails img {
+  width: 300px;
+}
+
+.DogDetails ul {
+  list-style-position: inside;
+}
